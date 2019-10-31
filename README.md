@@ -1536,6 +1536,7 @@ Most of these are paid services, some have free tiers.
 - [OpenShop.io](https://github.com/openshopio/openshop.io-ios) - mobile e-commerce solution connected to Facebook Ads and Google.
 
 ## Reactive Programming
+- [OpenCombine](https://github.com/broadwaylamb/OpenCombine) — Open source implementation of Apple's Combine framework for processing values over time.
 - [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift.
 - [RxOptional](https://github.com/thanegill/RxOptional) - RxSwift extensions for Swift optionals and "Occupiable" types.
 - [ReactiveTask](https://github.com/Carthage/ReactiveTask) - Flexible, stream-based abstraction for launching processes.
